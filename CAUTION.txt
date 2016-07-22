@@ -1,0 +1,5 @@
+!注意! : MemoChipPPC.proj は x86環境でのクロスコンパイル用プロジェクトです。PPC環境
+　用のプロジェクトファイルではありません。
+--
+!CAUTION! : MemoChipPPC.proj is used to PPC cross compilation on x86 environment.
+  It's * NOT * project file for PPC environment.
