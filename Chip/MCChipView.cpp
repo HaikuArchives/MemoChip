@@ -7,6 +7,7 @@
 //
 
 #include	<MenuItem.h>
+#include	<string.h>
 #include	"MCApp.h"
 #include	"MCChipView.h"
 #include	"MCMsgConst.h"

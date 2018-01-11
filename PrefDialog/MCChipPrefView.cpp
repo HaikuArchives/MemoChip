@@ -9,6 +9,7 @@
 #include	<Application.h>
 #include	<Window.h>
 #include	<stdlib.h>
+#include	<string.h>
 #include	"MCChipPrefView.h"
 #include	"MCMsgConst.h"
 
