@@ -11,6 +11,7 @@
 #include	<MenuItem.h>
 #include	<StringView.h>
 #include	<stdlib.h>
+#include	<string.h>
 #include	"MCFontView.h"
 
 

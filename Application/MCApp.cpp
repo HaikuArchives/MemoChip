@@ -14,6 +14,7 @@
 #include	<FindDirectory.h>
 #include	<stdio.h>
 #include	<stdlib.h>
+#include	<string.h>
 #include	"MCApp.h"
 #include	"MCArchive.h"
 #include	"MCMiniIcon.h"

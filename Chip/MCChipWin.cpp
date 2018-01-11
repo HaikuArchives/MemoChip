@@ -8,6 +8,7 @@
 
 #include	<Alert.h>
 #include	<Clipboard.h>
+#include	<string.h>
 #include	"MCApp.h"
 #include	"MCChipWin.h"
 #include	"MCMsgConst.h"

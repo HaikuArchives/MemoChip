@@ -8,6 +8,7 @@
 
 #include	<Application.h>
 #include	<Window.h>
+#include	<string.h>
 #include	"MCMainPrefView.h"
 #include	"MCMsgConst.h"
 
